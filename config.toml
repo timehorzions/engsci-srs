@@ -1,5 +1,5 @@
-baseURL = "http://localhost"
-title = "Geekdocs"
+baseURL = "https://srs.timehorizons.org"
+title = "EngSci Mneumonic Notes"
 theme = "hugo-geekdoc"
 
 pluralizeListTitles = false
